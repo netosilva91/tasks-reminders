@@ -1,1 +1,3 @@
-# tasks-reminders
+# Tarefas e Lembretes
+
+Projeto realizado em TypeScript
