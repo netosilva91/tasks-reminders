@@ -1,0 +1,14 @@
+{
+  "name": "tasks-reminders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/netosilva91/tasks-reminders.git",
+  "author": "neto-mwg <91.joseneto@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "npx tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
